@@ -1,0 +1,10 @@
+.bottle-container {
+  border: 2px solid steelblue;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.bottle-container img {
+  width: 200px;
+}
